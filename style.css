@@ -1,0 +1,11 @@
+body{
+		font-family: "Arial";
+		color: grey;
+		background-color: #EDF4FF;
+	}
+	h1, h2{
+		color: #8A99FF;
+	}
+	ul{
+		list-style-type: none;
+	}
